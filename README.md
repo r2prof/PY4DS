@@ -1,2 +1,2 @@
-# PY4DS
-Python4DS
+# Python For Data Science
+
